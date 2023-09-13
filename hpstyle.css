@@ -1,0 +1,23 @@
+			body {
+					background-image:url('small-blue-flower.jpg');
+					background-repeat:no-repeat;
+					background-size:cover;
+				}
+			h1 {text-align: center;}
+			h2 {text-align: center;}
+			.myDiv {
+					border: 5px outset blue;
+					background-color: lightblue;
+					text-align:center;
+					}
+			a:hover {
+				background-color:lime
+				}
+			th {
+				background-color:beige;
+				text-align:center;
+				}
+			td {
+				background-color:lightblue;
+				text-align:center;
+				}
